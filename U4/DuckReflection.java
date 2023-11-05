@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: Ondřej Surý
+//
+// SPDX-License-Identifier: WTFPL
+
 import DuckFactory.*;
 import java.lang.Class;
 import java.lang.reflect.*;
