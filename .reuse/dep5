@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: XNAVV Assignments
+Upstream-Contact: Ondřej Surý <ondrej@sury.org>
+Source: https://github.com/oerdnj/XNAVV
+
+Files: .gitignore
+       */README.md
+Copyright: Ondřej Surý
+License: WTFPL
